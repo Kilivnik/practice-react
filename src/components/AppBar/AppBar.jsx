@@ -1,13 +1,13 @@
 
-import { Logo } from "./Logo"
-import { SearchBox } from "./SearchBox";
-import { HeaderNav } from './HeaderNav';
-import { UserMenu } from "./UserMenu";
-import { PsychologistMenu } from "./PsychologistMenu";
-import { FindSpecialist } from "./FindSpecialist";
-import {FilterQuestions} from "./FilterQuestions"
-import { OurSpecialists } from "./OurSpecialists";
-import {SpecialistCard} from "./SpecialistCard/SpecialistCard"
+import { Logo } from "../Logo/Logo"
+import { SearchBox } from "../SearchBox/SearchBox";
+import { HeaderNav } from '../HeaderNav/HeaderNav';
+import { UserMenu } from "../UserMenu";
+import { PsychologistMenu } from "../PsychologistMenu";
+import { FindSpecialist } from "../FindSpecialist";
+import {FilterQuestions} from "../FilterQuestions"
+import { OurSpecialists } from "../OurSpecialists";
+import {SpecialistCard} from "../SpecialistCard/SpecialistCard"
 
 const user = {
   avatarURL: "../images/svg/profile.svg",
