@@ -1,4 +1,5 @@
-import css from "./SpecialistCard.module.css"
+import css from "./SpecialistCard.module.scss"
+import { ReactComponent as HeartIcon } from "../../assets/heart.svg";
 
 export const SpecialistCard = ({
   img,
@@ -12,6 +13,7 @@ export const SpecialistCard = ({
   requests,
   price,
   description,
+  favourite,
 }) => {
   return (
     <li className={css.specialistItem}>
@@ -51,6 +53,11 @@ export const SpecialistCard = ({
         <button>Connect</button>
         <p>$ {price} / for consultation</p>
       </div>
+      <button className={css.favBtn}>
+        <HeartIcon
+          className={`${css.iconHeart} ${favourite ? css.favourite : ''}`}
+        />
+      </button>
     </li>
   );
 };

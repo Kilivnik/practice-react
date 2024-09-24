@@ -31,6 +31,7 @@ const specialist = {
   price: 30,
   description:
     "I love my work and believe in what I do. I always work for the client, the client's personality is important in my work, and only then the symptom or diagnosis. I work with a wide range of requests. I guarantee it at work!",
+  favourite: true,
 };
 
 export const AppBar = () => {
@@ -56,6 +57,7 @@ export const AppBar = () => {
           requests={specialist.requests}
           price={specialist.price}
           description={specialist.description}
+          favourite={specialist.favourite}
         />
       </header>
     );

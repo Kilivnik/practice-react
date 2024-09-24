@@ -2,8 +2,9 @@
     display: flex;
     padding: 40px 20px 40px 40px;
     background-color: white;
-    
-    /* text-transform: capitalize; */
+    position: relative;
+
+    outline: 1px solid #F30B0B;
 }
 
 
@@ -80,6 +81,28 @@ img {
 .descriptionBloc {
     width: 400px;
 }
+
+.iconHeart {
+    path {
+        stroke: #16161F;
+    }
+        &.favourite {
+            path {
+                stroke: #F30B0B;
+                fill: #F30B0B;
+            }
+        }
+    
+}
+
+.favBtn {
+    position: absolute;
+    border: none;
+    right: 20px;
+    bottom: 40px;
+    background-color: transparent;
+}
+
 
 
 
