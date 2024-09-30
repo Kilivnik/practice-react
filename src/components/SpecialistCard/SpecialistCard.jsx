@@ -1,7 +1,10 @@
-import css from "./SpecialistCard.module.scss"
-import { ReactComponent as HeartIcon } from "../../assets/heart.svg";
+// import Button from '../Button/Button';
+
+// import HeartIcon from '../../assets/icons/heart.svg?react';
+import css from './SpecialistCard.module.scss';
 
 export const SpecialistCard = ({
+  id,
   img,
   name,
   surname,
@@ -49,15 +52,10 @@ export const SpecialistCard = ({
         <p>{description}</p>
       </div>
 
-      <div>
-        <button>Connect</button>
-        <p>$ {price} / for consultation</p>
-      </div>
-      <button className={css.favBtn}>
-        <HeartIcon
-          className={`${css.iconHeart} ${favourite ? css.favourite : ''}`}
-        />
-      </button>
+      <p>$ {price} / for consultation</p>
+      <p>favorite-{favourite}</p>
     </li>
   );
 };
+
+

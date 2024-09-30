@@ -1,0 +1,279 @@
+{
+  "specialist": [
+    {
+      "id": "1",
+      "img": "https://img.freepik.com/free-photo/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187.jpg?size=626&ext=jpg&ga=GA1.1.1777442956.1726489384&semt=ais_hybrid",
+      "name": "Marina",
+      "surname": "Ruzkovskyi",
+      "type": "psychologist",
+      "status": "online",
+      "experience": 2,
+      "practice": 2000,
+      "reviews": 34,
+      "requests": [
+        "No motivation",
+        "Burnout",
+        "Child-parent relations",
+        "Conflicts at work"
+      ],
+      "price": 30,
+      "description": "I love my work and believe in what I do. I always work for the client, the client's personality is important in my work, and only then the symptom or diagnosis. I work with a wide range of requests. I guarantee it at work!",
+      "favourite": true
+    },
+    {
+      "id": "2",
+      "img": "https://st2.depositphotos.com/1004384/5837/i/450/depositphotos_58373937-stock-photo-beautiful-blonde-girl-portrait-on.jpg",
+      "name": "Olena",
+      "surname": "Druzkovsky",
+      "type": "psychologist",
+      "status": "online",
+      "experience": 2,
+      "practice": 2000,
+      "reviews": 34,
+      "requests": ["Burnout"],
+      "price": 30,
+      "description": "I love my work and believe in what I do. I always work for the client, the client's personality is important in my work, and only then the symptom or diagnosis. I work with a wide range of requests. I guarantee it at work!",
+      "favourite": false
+    },
+    {
+      "id": "3",
+      "img": "https://img.freepik.com/free-photo/close-up-portrait-of-handsome-confident-young-man-in-white-t-shirt-looking-away-on-blurry-outdoor-nature_176420-6306.jpg",
+      "name": "Mykhailo",
+      "surname": "Druzkovskyi",
+      "type": "psychologist",
+      "status": "online",
+      "experience": 2,
+      "practice": 2000,
+      "reviews": 34,
+      "requests": ["Burnout", "Apathy"],
+      "price": 30,
+      "description": "I love my work and believe in what I do. I always work for the client, the client's personality is important in my work, and only then the symptom or diagnosis. I work with a wide range of requests. I guarantee it at work!",
+      "favourite": true
+    },
+    {
+      "id": "4",
+      "img": "https://img.freepik.com/free-photo/portrait-blonde-woman-looking-photographer_23-2148348970.jpg?t=st=1726829554~exp=1726833154~hmac=65c8be6c4cd1222d7e3b8c07446b772564f2a83a094cede15f97a5d335a7a54f&w=740",
+      "name": "Irina",
+      "surname": "Zkovskyi",
+      "type": "psychologist",
+      "status": "online",
+      "experience": 2,
+      "practice": 2000,
+      "reviews": 34,
+      "requests": ["Apathy"],
+      "price": 30,
+      "description": "I love my work and believe in what I do. I always work for the client, the client's personality is important in my work, and only then the symptom or diagnosis. I work with a wide range of requests. I guarantee it at work!",
+      "favourite": true
+    },
+    {
+      "id": "5",
+      "img": "https://img.freepik.com/free-photo/man-with-old-camera-street_23-2147847084.jpg?t=st=1726829622~exp=1726833222~hmac=4cca68bd88fac0808e74f56958b234c16a00646c7794def42a4678c34cba3516&w=740",
+      "name": "Volodymyr",
+      "surname": "Druz",
+      "type": "psychologist",
+      "status": "online",
+      "experience": 2,
+      "practice": 2000,
+      "reviews": 34,
+      "requests": [
+        "Uncertainty",
+        "Fears and phobias",
+        "Child-parent relations",
+        "Conflicts at work"
+      ],
+      "price": 30,
+      "description": "I love my work and believe in what I do. I always work for the client, the client's personality is important in my work, and only then the symptom or diagnosis. I work with a wide range of requests. I guarantee it at work!",
+      "favourite": true
+    },
+    {
+      "id": "6",
+      "img": "https://img.freepik.com/free-photo/man-with-backpack-walks-through-streets-amsterdam_1321-1769.jpg?ga=GA1.1.1777442956.1726489384&semt=ais_hybrid",
+      "name": "Oleg",
+      "surname": "Kov",
+      "type": "psychologist",
+      "status": "online",
+      "experience": 2,
+      "practice": 2000,
+      "reviews": 34,
+      "requests": [
+        "Aggression",
+        "Fears and phobias",
+        "Child-parent relations",
+        "Conflicts at work"
+      ],
+      "price": 30,
+      "description": "I love my work and believe in what I do. I always work for the client, the client's personality is important in my work, and only then the symptom or diagnosis. I work with a wide range of requests. I guarantee it at work!",
+      "favourite": true
+    },
+    {
+      "id": "7",
+      "img": "https://img.freepik.com/free-photo/portrait-young-businesswoman-holding-eyeglasses-hand-against-gray-backdrop_23-2148029483.jpg?ga=GA1.1.1777442956.1726489384&semt=ais_hybrid",
+      "name": "Nina",
+      "surname": "Vlas",
+      "type": "psychologist",
+      "status": "online",
+      "experience": 2,
+      "practice": 2000,
+      "reviews": 34,
+      "requests": [
+        "Difficulties in relationships",
+        "Fears and phobias",
+        "Child-parent relations",
+        "Conflicts at work"
+      ],
+      "price": 30,
+      "description": "I love my work and believe in what I do. I always work for the client, the client's personality is important in my work, and only then the symptom or diagnosis. I work with a wide range of requests. I guarantee it at work!",
+      "favourite": true
+    },
+    {
+      "id": "8",
+      "img": "https://img.freepik.com/free-photo/plus-size-man-lifestyle_23-2151662664.jpg?ga=GA1.1.1777442956.1726489384&semt=ais_hybrid",
+      "name": "Igor",
+      "surname": "Tan",
+      "type": "psychologist",
+      "status": "online",
+      "experience": 2,
+      "practice": 2000,
+      "reviews": 34,
+      "requests": [
+        "Difficulties in relationships",
+        "Fears and phobias",
+        "Child-parent relations",
+        "Conflicts at work"
+      ],
+      "price": 30,
+      "description": "I love my work and believe in what I do. I always work for the client, the client's personality is important in my work, and only then the symptom or diagnosis. I work with a wide range of requests. I guarantee it at work!",
+      "favourite": true
+    },
+    {
+      "id": "9",
+      "img": "https://img.freepik.com/free-photo/side-view-woman-posing-chair_23-2149915943.jpg?ga=GA1.1.1777442956.1726489384&semt=ais_hybrid",
+      "name": "Lina",
+      "surname": "Tomato",
+      "type": "psychologist",
+      "status": "online",
+      "experience": 2,
+      "practice": 2000,
+      "reviews": 34,
+      "requests": [
+        "Difficulties in relationships",
+        "Fears and phobias",
+        "Child-parent relations",
+        "Conflicts at work"
+      ],
+      "price": 30,
+      "description": "I love my work and believe in what I do. I always work for the client, the client's personality is important in my work, and only then the symptom or diagnosis. I work with a wide range of requests. I guarantee it at work!",
+      "favourite": true
+    },
+    {
+      "id": "10",
+      "img": "https://img.freepik.com/free-photo/portrait-handsome-bearded-man-outside_23-2150266915.jpg?ga=GA1.1.1777442956.1726489384&semt=ais_hybrid",
+      "name": "Pavel",
+      "surname": "Okko",
+      "type": "psychologist",
+      "status": "online",
+      "experience": 2,
+      "practice": 2000,
+      "reviews": 34,
+      "requests": [
+        "Difficulties in relationships",
+        "Fears and phobias",
+        "Child-parent relations",
+        "Conflicts at work"
+      ],
+      "price": 30,
+      "description": "I love my work and believe in what I do. I always work for the client, the client's personality is important in my work, and only then the symptom or diagnosis. I work with a wide range of requests. I guarantee it at work!",
+      "favourite": true
+    },
+    {
+      "id": "11",
+      "img": "https://img.freepik.com/free-photo/attractive-girl-portrait-white-shirt_158595-1463.jpg?ga=GA1.1.1777442956.1726489384&semt=ais_hybrid",
+      "name": "Poly",
+      "surname": "Moly",
+      "type": "psychologist",
+      "status": "online",
+      "experience": 2,
+      "practice": 2000,
+      "reviews": 34,
+      "requests": [
+        "Difficulties in relationships",
+        "Fears and phobias",
+        "Child-parent relations",
+        "Conflicts at work"
+      ],
+      "price": 30,
+      "description": "I love my work and believe in what I do. I always work for the client, the client's personality is important in my work, and only then the symptom or diagnosis. I work with a wide range of requests. I guarantee it at work!",
+      "favourite": true
+    },
+    {
+      "id": "12",
+      "img": "https://img.freepik.com/free-photo/cheerful-guy-enjoying-outdoor-coffee-break_1262-20005.jpg?ga=GA1.1.1777442956.1726489384&semt=ais_hybrid",
+      "name": "Egor",
+      "surname": "Krid",
+      "type": "psychologist",
+      "status": "online",
+      "experience": 2,
+      "practice": 2000,
+      "reviews": 34,
+      "requests": [
+        "Difficulties in relationships",
+        "Fears and phobias",
+        "Child-parent relations",
+        "Conflicts at work"
+      ],
+      "price": 30,
+      "description": "I love my work and believe in what I do. I always work for the client, the client's personality is important in my work, and only then the symptom or diagnosis. I work with a wide range of requests. I guarantee it at work!",
+      "favourite": true
+    },
+    {
+      "id": "13",
+      "img": "https://img.freepik.com/free-photo/young-smiling-professional-woman-having-coffee-break-her-full-working-day-she-holds-paper-cup-outdoors-near-business-building-while-relaxing-enjoying-her-beverage_158595-6864.jpg?ga=GA1.1.1777442956.1726489384&semt=ais_hybrid",
+      "name": "Olga",
+      "surname": "Lol",
+      "type": "psychologist",
+      "status": "online",
+      "experience": 2,
+      "practice": 2000,
+      "reviews": 34,
+      "requests": [
+        "Difficulties in relationships",
+        "Fears and phobias",
+        "Child-parent relations",
+        "Conflicts at work"
+      ],
+      "price": 30,
+      "description": "I love my work and believe in what I do. I always work for the client, the client's personality is important in my work, and only then the symptom or diagnosis. I work with a wide range of requests. I guarantee it at work!",
+      "favourite": true
+    },
+    {
+      "id": "14",
+      "img": "https://img.freepik.com/free-photo/handsome-man-with-glasses_144627-18659.jpg?ga=GA1.1.1777442956.1726489384&semt=ais_hybrid",
+      "name": "Mike",
+      "surname": "Mause",
+      "type": "psychologist",
+      "status": "online",
+      "experience": 2,
+      "practice": 2000,
+      "reviews": 34,
+      "requests": ["Aggression", "Stress"],
+      "price": 30,
+      "description": "I love my work and believe in what I do. I always work for the client, the client's personality is important in my work, and only then the symptom or diagnosis. I work with a wide range of requests. I guarantee it at work!",
+      "favourite": true
+    },
+    {
+      "id": "15",
+      "img": "https://img.freepik.com/free-photo/person-holding-cup-coffee_23-2150698715.jpg?ga=GA1.1.1777442956.1726489384&semt=ais_hybrid",
+      "name": "Vika",
+      "surname": "Pobeda",
+      "type": "psychologist",
+      "status": "online",
+      "experience": 2,
+      "practice": 2000,
+      "reviews": 34,
+      "requests": ["Aggression"],
+      "price": 30,
+      "description": "I love my work and believe in what I do. I always work for the client, the client's personality is important in my work, and only then the symptom or diagnosis. I work with a wide range of requests. I guarantee it at work!",
+      "favourite": true
+    }
+  ]
+}
